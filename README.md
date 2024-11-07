@@ -1,6 +1,6 @@
 # Shura-VG.github.io
 
-    This project contains automated test scripts for testing various functionalities of a web application using Selenium
+This project contains automated test scripts for testing various functionalities of a web application using Selenium
 
 ## Prerequisites
 
@@ -51,20 +51,22 @@
 
 ## View Test Results
 
-    Test results will be displayed in the terminal.
+Test results will be displayed in the terminal.
 
 ## Generate HTML Report
 
-    To generate an HTML report using pytest (if applicable):
+To generate an HTML report using pytest (if applicable):
 
 1. Ensure pytest and pytest-html are installed:
+
     pip install pytest pytest-html
 
 2. Run pytest with the HTML report option:
+
     pytest --html=report.html
 
-    The report file will be in your project folder. You can open it with your browser to see.
+The report file will be in your project folder. You can open it with your browser to see.
 
 ## Summary
 
-    By following these steps, you can set up and run your Selenium tests using VS Code. This setup ensures you can manage your project, write and execute tests, and view results all within the same environment. If you have any other questions or need further assistance, please feel free to ask!
+By following these steps, you can set up and run your Selenium tests using VS Code. This setup ensures you can manage your project, write and execute tests, and view results all within the same environment. If you have any other questions or need further assistance, please feel free to ask!
