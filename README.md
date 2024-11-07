@@ -1,4 +1,4 @@
-# Shura-VG.github.io
+# Selenium_Testing
 
 This project contains automated test scripts for testing various functionalities of a web application using Selenium
 
